@@ -10,7 +10,7 @@ PEView shows that it is probably not packed, because **Virtual Size** and **Raw 
 ![PEView](/images/SMTP_Worm/peviewimg.JPG)
 
 Upon loading the sample in 'PE Studio', there are 7 indicators that the sample is probably malicious. 29 imports and 23 strings which can be used to try to 
-figure out what the sample might do when executed. There are even some IPs and Emails listed: 209.85.223.33, 209.85.210.24 and 209.85.223.27.
+figure out what the sample might do when executed. There are even some IPs listed: 209.85.223.33, 209.85.210.24 and 209.85.223.27.
 
 ![PE Studio](/images/SMTP_Worm/pestudioimg.JPG)
 
